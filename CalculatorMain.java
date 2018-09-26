@@ -12,7 +12,7 @@ public class CalculatorMain {
          
          boolean keepGoing = true;
          String inputStr = "";
-         double result = 0.00;
+         double result = 1.00;
          
          while(keepGoing) {
               System.out.println("Main Menu:");
